@@ -42,3 +42,8 @@ An enterprise-grade middleware defense system and SOC dashboard built to secure 
  **Quick Start & Installation Instructions**:
 * **Backend Setup**: Navigate to the backend directory, create a virtual environment, activate it, install dependencies from `requirements.txt`, and launch the FastAPI server using uvicorn.
 * **Frontend Setup**: Navigate to the frontend directory, install dependencies via npm, and start the development server to view the SOC dashboard at `
+* 
+  ## 👨‍💻 Author & Contributing
+
+* **Author:** Anamika T.R.
+* **Contributions:** Pull requests, issues, and feature suggestions are welcome to enhance the gateway's detection capabilities and guardrail modules. Feel free to fork the repository and submit a PR.
